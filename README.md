@@ -26,11 +26,11 @@
 3. 在软件池的README.md文件中给出每次作业的超链接
 
 ### 写markdown的工具
-- 在github上直接写\
+- 在github上直接写    
 简洁明了，操作略繁琐，不能显示latex公式
-- 使用[stackedit](stackedit.io)\
+- 使用[stackedit](stackedit.io)    
 接近完美的在线markdown编辑器，格式非常漂亮，缺点只能单向发布到github
-- 使用[作业部落](https://www.zybuluo.com/)\
+- 使用[作业部落](https://www.zybuluo.com/)    
 不错的在线markdown编辑器，中文支持好，缺点不能与github关联
 
 
