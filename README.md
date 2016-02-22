@@ -7,7 +7,7 @@
 ## 参考书
 - **An Introduction to Computer Simulation Methods: Applications to Physical Systems**, Harvey Gould, Jan Tobochnik and Wolfgang Christian
 - **Numerical Recipes 3rd Edition: The Art of Scientific Computing**, William H. Press and Saul A. Teukolsky
-- [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+- [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0**](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
 ## 工具
 - [markdown](https://daringfireball.net/projects/markdown/)
